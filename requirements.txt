@@ -1,0 +1,2 @@
+dependency-injector == 4.48.3
+pytest == 9.0.2
